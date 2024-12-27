@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	cqcid	acaw1XzPINcj46yvcKjkROzxyu
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	cquid	||
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	dwanonymous_3a91e716f1f66445c4c1e120145660ff	acaw1XzPINcj46yvcKjkROzxyu
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	customerStoreSelection	dRpVpIheM5JitnhwjbObFLPD7M5VuFmkXmqQPZ1LmBO6+rwIwSXwtgEZDgFaGlZFwlb3n+bYfe8+YmTRHWm/lXvvIDNHdvpLDOgegT8OfLHb5or+ZzS4pDy0KyuJ9hsz2zjIA8LTzrSEXaTBVPYUW1W0Tdl33vV/PAtJccTtekderq0UkZzq9rJFHu83ab0R5626CXMpA0cht8D7aQ43Tq4iFrK+Fl5JmvOI0IPV3n+ayHvEa/JGCY11DiU4aYbW5nb+EQOP5SQdd34yPj8xcw6GpkAOYhy8MtPbY+gIBkuwcIZ5bS7+vNlel8l2Ez1m5Lr+Fwg7D4qVdzpIdFMoWElHIDhsMbDzEwb9TAt2Rrq9zhicIHtGZnA4JgZ3eo4M5QUgbO2ALUfhJOVSf5Wqnw=="
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	dwac_53713889639469025387b2de1b	uN4rhwl-AHXxlIiqfw03Xr3ImlsKRsfFJtU%3D|dw-only|||BRL|false|Etc%2FGMT%2B3|true
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	sid	uN4rhwl-AHXxlIiqfw03Xr3ImlsKRsfFJtU
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	__cq_dnt	0
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	dw_dnt	0
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	dwsid	rfW-NSWe_LvgB_Eg9GYokKjjD-kmpjsLN0brjPTwZhP2BbKrDG1FXxfqyFpbF13W6I_1AKjvr-9b9vkqz40LUQ==
+www.cacaushow.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+
